@@ -1,0 +1,2 @@
+/usr/bin/ar qc libparams_lib.a CMakeFiles/params_lib.dir/params/Parameters.cpp.o
+/usr/bin/ranlib libparams_lib.a

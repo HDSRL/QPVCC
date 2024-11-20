@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboptim_lib.a CMakeFiles/optim_lib.dir/optimization/iSWIFT/src/Auxilary.c.o CMakeFiles/optim_lib.dir/optimization/iSWIFT/src/Prime.c.o CMakeFiles/optim_lib.dir/optimization/iSWIFT/src/timer.c.o CMakeFiles/optim_lib.dir/optimization/iSWIFT/ldl/src/ldl.c.o CMakeFiles/optim_lib.dir/optimization/iSWIFT/cpp_wrapper/iswift_qp.cpp.o
+/usr/bin/ranlib liboptim_lib.a

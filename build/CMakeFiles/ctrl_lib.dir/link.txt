@@ -1,0 +1,2 @@
+/usr/bin/ar qc libctrl_lib.a CMakeFiles/ctrl_lib.dir/src/LowLevelCtrl.cpp.o CMakeFiles/ctrl_lib.dir/src/VirtualConstraints.cpp.o CMakeFiles/ctrl_lib.dir/src/DataLog.cpp.o
+/usr/bin/ranlib libctrl_lib.a

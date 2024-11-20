@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmujoco_wrapper.a CMakeFiles/mujoco_wrapper.dir/MJ_Wrapper/MJ_Wrapper.cpp.o
+/usr/bin/ranlib libmujoco_wrapper.a

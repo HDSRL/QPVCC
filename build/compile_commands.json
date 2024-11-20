@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/gcc-12 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/ldl/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/cpp_wrapper -O3 -DNDEBUG -o CMakeFiles/optim_lib.dir/optimization/iSWIFT/src/Auxilary.c.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/src/Auxilary.c",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/src/Auxilary.c"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/gcc-12 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/ldl/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/cpp_wrapper -O3 -DNDEBUG -o CMakeFiles/optim_lib.dir/optimization/iSWIFT/src/Prime.c.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/src/Prime.c",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/src/Prime.c"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/gcc-12 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/ldl/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/cpp_wrapper -O3 -DNDEBUG -o CMakeFiles/optim_lib.dir/optimization/iSWIFT/src/timer.c.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/src/timer.c",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/src/timer.c"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/gcc-12 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/ldl/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/cpp_wrapper -O3 -DNDEBUG -o CMakeFiles/optim_lib.dir/optimization/iSWIFT/ldl/src/ldl.c.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/ldl/src/ldl.c",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/ldl/src/ldl.c"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/ldl/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/cpp_wrapper -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/optim_lib.dir/optimization/iSWIFT/cpp_wrapper/iswift_qp.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/cpp_wrapper/iswift_qp.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/cpp_wrapper/iswift_qp.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot -I/home/trec/WorkRaj/raisim_legged/QPVCC/util_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/global_include -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/dyn_lib.dir/dynamics/A1_New_wFoot/A1_D_B_G.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot/A1_D_B_G.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot/A1_D_B_G.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot -I/home/trec/WorkRaj/raisim_legged/QPVCC/util_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/global_include -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/dyn_lib.dir/dynamics/A1_New_wFoot/A1_FK.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot/A1_FK.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot/A1_FK.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot -I/home/trec/WorkRaj/raisim_legged/QPVCC/util_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/global_include -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/dyn_lib.dir/dynamics/A1_New_wFoot/A1_Jaco.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot/A1_Jaco.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot/A1_Jaco.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot -I/home/trec/WorkRaj/raisim_legged/QPVCC/util_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/global_include -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/dyn_lib.dir/dynamics/A1_New_wFoot/A1_Jaco_dot.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot/A1_Jaco_dot.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot/A1_Jaco_dot.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot -I/home/trec/WorkRaj/raisim_legged/QPVCC/util_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/global_include -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/dyn_lib.dir/dynamics/RobotModel.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/RobotModel.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/RobotModel.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/params -I/home/trec/WorkRaj/raisim_legged/QPVCC/global_include -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/params_lib.dir/params/Parameters.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/params/Parameters.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/params/Parameters.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/util_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/global_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot -I/home/trec/WorkRaj/raisim_legged/QPVCC/params -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/ldl/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/cpp_wrapper -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/ctrl_lib.dir/src/LowLevelCtrl.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/src/LowLevelCtrl.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/src/LowLevelCtrl.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/util_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/global_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot -I/home/trec/WorkRaj/raisim_legged/QPVCC/params -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/ldl/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/cpp_wrapper -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/ctrl_lib.dir/src/VirtualConstraints.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/src/VirtualConstraints.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/src/VirtualConstraints.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/util_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/global_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot -I/home/trec/WorkRaj/raisim_legged/QPVCC/params -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/ldl/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/cpp_wrapper -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/ctrl_lib.dir/src/DataLog.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/src/DataLog.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/src/DataLog.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/MP_and_Con/inc -I/home/trec/WorkRaj/raisim_legged/QPVCC/global_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/util_include -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/plan_lib.dir/MP_and_Con/src/ContactEst.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/MP_and_Con/src/ContactEst.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/MP_and_Con/src/ContactEst.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/MP_and_Con/inc -I/home/trec/WorkRaj/raisim_legged/QPVCC/global_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/util_include -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/plan_lib.dir/MP_and_Con/src/MotionPlanner.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/MP_and_Con/src/MotionPlanner.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/MP_and_Con/src/MotionPlanner.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/trec/WorkRaj/raisim_legged/QPVCC/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/util_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/global_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot -I/home/trec/WorkRaj/raisim_legged/QPVCC/params -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/ldl/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/cpp_wrapper -I/home/trec/WorkRaj/raisim_legged/QPVCC/MP_and_Con/inc -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/wrapper.dir/src/LocoWrapper.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/src/LocoWrapper.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/src/LocoWrapper.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/kavehakbarihamed/mujoco210/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/MJ_Wrapper -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/mujoco_wrapper.dir/MJ_Wrapper/MJ_Wrapper.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/MJ_Wrapper/MJ_Wrapper.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/MJ_Wrapper/MJ_Wrapper.cpp"
+},
+{
+  "directory": "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+  "command": "/usr/bin/g++-8 -DRUNNING_SIM -DUSE_QPSWIFT=1 -I/usr/local/include/eigen3 -I/home/kavehakbarihamed/mujoco210/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/MJ_Wrapper -I/home/trec/WorkRaj/raisim_legged/QPVCC/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/util_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/global_include -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics -I/home/trec/WorkRaj/raisim_legged/QPVCC/dynamics/A1_New_wFoot -I/home/trec/WorkRaj/raisim_legged/QPVCC/params -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/ldl/include -I/home/trec/WorkRaj/raisim_legged/QPVCC/optimization/iSWIFT/cpp_wrapper -I/home/trec/WorkRaj/raisim_legged/QPVCC/MP_and_Con/inc -O3 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/Run_Mujoco.dir/src/Mujoco_Example.cpp.o -c /home/trec/WorkRaj/raisim_legged/QPVCC/src/Mujoco_Example.cpp",
+  "file": "/home/trec/WorkRaj/raisim_legged/QPVCC/src/Mujoco_Example.cpp"
+}
+]

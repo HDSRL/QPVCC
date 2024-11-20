@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplan_lib.a CMakeFiles/plan_lib.dir/MP_and_Con/src/ContactEst.cpp.o CMakeFiles/plan_lib.dir/MP_and_Con/src/MotionPlanner.cpp.o
+/usr/bin/ranlib libplan_lib.a

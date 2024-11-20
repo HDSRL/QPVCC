@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "A1_Robot",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Run_Mujoco::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Run_Mujoco-Release-8f5317fb9f9960c8c427.json",
+					"name" : "Run_Mujoco",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ctrl_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ctrl_lib-Release-d223bd655f36bfa0fc94.json",
+					"name" : "ctrl_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dyn_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dyn_lib-Release-6be880ff91f9d7fcb987.json",
+					"name" : "dyn_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mujoco_wrapper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mujoco_wrapper-Release-2c82be11c3705098ec34.json",
+					"name" : "mujoco_wrapper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "optim_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-optim_lib-Release-30f20a9908c42b0dbaf4.json",
+					"name" : "optim_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "params_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-params_lib-Release-39737c53f9f40f50ec3f.json",
+					"name" : "params_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "plan_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-plan_lib-Release-a91101f1675d11781efe.json",
+					"name" : "plan_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wrapper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wrapper-Release-ea02affaef7bb333d8eb.json",
+					"name" : "wrapper",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/trec/WorkRaj/raisim_legged/QPVCC/build",
+		"source" : "/home/trec/WorkRaj/raisim_legged/QPVCC"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

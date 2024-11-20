@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdyn_lib.a CMakeFiles/dyn_lib.dir/dynamics/A1_New_wFoot/A1_D_B_G.cpp.o CMakeFiles/dyn_lib.dir/dynamics/A1_New_wFoot/A1_FK.cpp.o CMakeFiles/dyn_lib.dir/dynamics/A1_New_wFoot/A1_Jaco.cpp.o CMakeFiles/dyn_lib.dir/dynamics/A1_New_wFoot/A1_Jaco_dot.cpp.o CMakeFiles/dyn_lib.dir/dynamics/RobotModel.cpp.o
+/usr/bin/ranlib libdyn_lib.a

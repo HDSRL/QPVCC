@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwrapper.a CMakeFiles/wrapper.dir/src/LocoWrapper.cpp.o
+/usr/bin/ranlib libwrapper.a

@@ -1,0 +1,19 @@
+0.30
+0.08
+0.0
+0.0
+0.0
+0
+1
+
+// =========================================== //
+// ======= Ordering and default values ======= //
+// =========================================== //
+standHeight = 0.26;     // COM height
+h_swing = 0.08;         // Swing leg height
+fwdSpeed = 0.0;         // forward velocity
+latSpeed = 0.0;         // lateral velocity
+yawSpeed = 0.0;         // yaw angular velocity
+neverStopTrot = 0;      // prevents system from standing still
+extCmd = 0;             // If 1, accepts velocity commands from external source 
+                        // (i.e., ignores velocity commands from this file)
