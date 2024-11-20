@@ -6,9 +6,12 @@
 - Another implementation (simulation only) can be found in [Quadrupedal Locomotion via Event-Based Predictive Control and QP-Based Virtual Constraints](https://ieeexplore.ieee.org/abstract/document/9113252)
 
 ## Overview
+This framework utilizes virtual constraints and control Lyapunov functions (CLFs) in the context of quadratic programs (QPs) to robustly stabilize periodic orbits for hybrid models of quadrupedal robots. The proposed controller is numerically and experimentally validated on the A1 quadrupedal robot with 18 degrees of freedom to demonstrate the robust stability of trotting gaits against external disturbances and unknown payloads. Experiments - https://www.youtube.com/watch?v=0A7mJvVnSn8
+
+
 - Controller of the A1 Robot in the Hybrid Dynamic Systems and Robot Locomotion Lab at Virginia Tech (Lab Website: https://www.kavehakbarihamed.com/)
 - This code uses the Raibert heuristic and an I-O linearizing QP
-- When using this code/method, please cite other works in the lab appropriately
+- When using this code/method, please cite our paper (details at the end)
 - This code uses the [RaiSim](https://github.com/raisimTech/raisimLib) physics engine for simulation
 - The visualization is done using the [RaisimOgre](https://github.com/raisimTech/raisimOgre)
 - The code is written in C++ and uses the Eigen library for linear algebra
